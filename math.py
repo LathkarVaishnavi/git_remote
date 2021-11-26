@@ -8,7 +8,7 @@ return x-y
 
 #multiply implimemtation
 def mul(x,y):
-pass
+return x*y
 
 #divide implimentation
 def div(x,y):
