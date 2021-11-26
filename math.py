@@ -1,10 +1,10 @@
 #addition implimentation
 def add(x,y):
-pass
+return x+y
 
 #substract implementation
 def sub(x,y):
-pass
+return x-y
 
 #multiply implimemtation
 def mul(x,y):
