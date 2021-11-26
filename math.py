@@ -12,5 +12,5 @@ return x*y
 
 #divide implimentation
 def div(x,y):
-pass
+return x/y
 
