@@ -2,11 +2,11 @@
 def add(x,y):
 pass
 
-#sub implementation
+#substract implementation
 def sub(x,y):
 pass
 
-#mul implimemtation
+#multiply implimemtation
 def mul(x,y):
 pass
 
