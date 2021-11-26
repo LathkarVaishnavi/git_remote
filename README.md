@@ -1,3 +1,1 @@
-# git_remote
-
-# this is readme.txt file
+#this is feature1 branch froom remote
