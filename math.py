@@ -6,11 +6,11 @@ pass
 def sub(x,y):
 pass
 
-
+#mul implimemtation
 def mul(x,y):
 pass
 
-
+#divide implimentation
 def div(x,y):
 pass
 
